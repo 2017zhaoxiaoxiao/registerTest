@@ -1,0 +1,44 @@
+#reg{
+    width:600px;
+    height:600px;
+    background-color: cadetblue;
+    margin:0 auto;
+    opacity: 0.7;
+    padding-left: 100px;
+}
+h2{
+    margin:0;
+}
+input{
+    width:300px;
+    height:40px;
+    border-style: none;
+
+}
+#btn{
+    width:100px;
+    height:30px;
+    background-color: cornsilk;
+    border-style: none;
+}
+label{
+    display:inline-block;
+    width:60px;
+}
+#name-valid,
+#pwd-valid,
+#phone-valid,
+#code-valid{
+    color:red;
+    font-size: 0.8em;
+    margin-left:60px;
+    height:10px;
+}
+#register{
+    width:100px;
+    margin:0 auto;
+    height:40px;
+    border-radius: 10px;
+    background-color: darkcyan;
+}
+
